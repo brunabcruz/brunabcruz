@@ -147,7 +147,7 @@
 <br/>
 
 <div align="center">
-![Snake animation](https://github.com/brunabcruz/brunabcruz/blob/output/snake.svg?palette=github-light&color_snake=pink&color_dots=#ffb6c1,#ff69b4,#db7093,#c71585,#ff1493)
+
 
 </div>
 
