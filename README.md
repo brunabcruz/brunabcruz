@@ -37,7 +37,6 @@
 | ![](https://img.shields.io/badge/LOCAL-d4006e?style=flat-square&labelColor=0d0010) | Belo Horizonte, MG |
 | ![](https://img.shields.io/badge/CURSO-ff2d78?style=flat-square&labelColor=0d0010) | Eng. de Software + Ciência de Dados & IA |
 | ![](https://img.shields.io/badge/ESCOLA-d4006e?style=flat-square&labelColor=0d0010) | Ibmec BH |
-| ![](https://img.shields.io/badge/CARGO-ff2d78?style=flat-square&labelColor=0d0010) | @ Ibtech · BH |
 | ![](https://img.shields.io/badge/FOCO-d4006e?style=flat-square&labelColor=0d0010) | Front-end · UI/UX · Back-end · Dados · IA |
 | ![](https://img.shields.io/badge/INGLÊS-ff2d78?style=flat-square&labelColor=0d0010) | B2 — Intermediário alto |
 
