@@ -36,8 +36,6 @@
 <td>Ibmec BH</td>
 </tr>
 <tr>
-<td align="right"><img src="https://img.shields.io/badge/CARGO-0d0010?style=flat-square&labelColor=ff2d78&color=0d0010" /></td>
-<td>@ Ibtech · BH</td>
 <td align="right"><img src="https://img.shields.io/badge/INGLÊS-0d0010?style=flat-square&labelColor=d4006e&color=0d0010" /></td>
 <td>B2 — Intermediário alto</td>
 </tr>
