@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0010,40:3b0035,80:8b005a,100:ff2d78&height=200&text=BRUNA%20BENTO&fontColor=ffb3d9&fontSize=55&fontAlignY=55&stroke=ff2d78&strokeWidth=2&animation=twinkling&desc=SOFTWARE%20ENG%20·%20DATA%20SCIENCE%20%26%20AI%20·%20UI%2FUX&descSize=14&descAlignY=75&descColor=d4006e" />
 </div>
 
 <div align="center">
@@ -10,11 +9,11 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2d78,100:8b005a&height=3&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0010,50:ff2d78,100:0d0010&height=2" />
 
 <br/>
 
-<!-- ██████████ IDENTIDADE ██████████ -->
+<!-- ██████ IDENTIDADE ██████ -->
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0010,100:2b0030&height=40&text=◈%20%20IDENTIDADE%20%20◈&fontColor=ff2d78&fontSize=18&fontAlignY=70" />
 
@@ -23,35 +22,36 @@
 <div align="center">
 
 <table>
-<tr>
-<td align="right"><img src="https://img.shields.io/badge/NOME-0d0010?style=flat-square&labelColor=ff2d78&color=0d0010" /></td>
-<td><b>Bruna da Cruz Bento</b></td>
-<td align="right"><img src="https://img.shields.io/badge/LOCAL-0d0010?style=flat-square&labelColor=d4006e&color=0d0010" /></td>
-<td>Belo Horizonte, MG</td>
-</tr>
-<tr>
-<td align="right"><img src="https://img.shields.io/badge/CURSO-0d0010?style=flat-square&labelColor=ff2d78&color=0d0010" /></td>
-<td>Eng. de Software + Ciência de Dados & IA</td>
-<td align="right"><img src="https://img.shields.io/badge/ESCOLA-0d0010?style=flat-square&labelColor=d4006e&color=0d0010" /></td>
-<td>Ibmec BH</td>
-</tr>
-<tr>
-<td align="right"><img src="https://img.shields.io/badge/INGLÊS-0d0010?style=flat-square&labelColor=d4006e&color=0d0010" /></td>
-<td>B2 — Intermediário alto</td>
-</tr>
-<tr>
-<td align="right"><img src="https://img.shields.io/badge/FOCO-0d0010?style=flat-square&labelColor=ff2d78&color=0d0010" /></td>
-<td colspan="3">Front-end · UI/UX · Back-end · Dados · IA · Web</td>
-</tr>
+  <tr>
+    <td align="center">
+      <!-- Avatar SVG inline via shields com iniciais -->
+      <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=48&duration=3000&pause=1000&color=FF2D78&background=0D001000&center=true&vCenter=true&width=140&height=120&lines=BB" />
+      <br/>
+      <img src="https://img.shields.io/badge/Bruna%20Bento-ff2d78?style=for-the-badge&labelColor=0d0010" />
+    </td>
+    <td>
+
+| | |
+|:---|:---|
+| ![](https://img.shields.io/badge/NOME-ff2d78?style=flat-square&labelColor=0d0010) | Bruna da Cruz Bento |
+| ![](https://img.shields.io/badge/LOCAL-d4006e?style=flat-square&labelColor=0d0010) | Belo Horizonte, MG |
+| ![](https://img.shields.io/badge/CURSO-ff2d78?style=flat-square&labelColor=0d0010) | Eng. de Software + Ciência de Dados & IA |
+| ![](https://img.shields.io/badge/ESCOLA-d4006e?style=flat-square&labelColor=0d0010) | Ibmec BH |
+| ![](https://img.shields.io/badge/CARGO-ff2d78?style=flat-square&labelColor=0d0010) | @ Ibtech · BH |
+| ![](https://img.shields.io/badge/FOCO-d4006e?style=flat-square&labelColor=0d0010) | Front-end · UI/UX · Back-end · Dados · IA |
+| ![](https://img.shields.io/badge/INGLÊS-ff2d78?style=flat-square&labelColor=0d0010) | B2 — Intermediário alto |
+
+  </td>
+  </tr>
 </table>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0010,50:ff2d78,100:0d0010&height=2&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0010,50:ff2d78,100:0d0010&height=2" />
 
 <br/>
 
-<!-- ██████████ SOBRE MIM ██████████ -->
+<!-- ██████ SOBRE MIM ██████ -->
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0010,100:2b0030&height=40&text=◈%20%20SOBRE%20MIM%20%20◈&fontColor=ff2d78&fontSize=18&fontAlignY=70" />
 
@@ -59,7 +59,7 @@
 
 <div align="center">
 
-| 🔹 | |
+|   | |
 |:---:|:---|
 | **design + código** | Uno UI/UX com desenvolvimento técnico — crio desde a interface até a lógica |
 | **projeto real** | E-commerce responsivo · Bulbe Energia · Figma + HTML + CSS + JS |
@@ -68,11 +68,11 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0010,50:ff2d78,100:0d0010&height=2&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0010,50:ff2d78,100:0d0010&height=2" />
 
 <br/>
 
-<!-- ██████████ HABILIDADES ██████████ -->
+<!-- ██████ HABILIDADES ██████ -->
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0010,100:2b0030&height=40&text=◈%20%20HABILIDADES%20%20◈&fontColor=ff2d78&fontSize=18&fontAlignY=70" />
 
@@ -88,11 +88,11 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0010,50:ff2d78,100:0d0010&height=2&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0010,50:ff2d78,100:0d0010&height=2" />
 
 <br/>
 
-<!-- ██████████ STACK ██████████ -->
+<!-- ██████ STACK ██████ -->
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0010,100:2b0030&height=40&text=◈%20%20STACK%20%20◈&fontColor=ff2d78&fontSize=18&fontAlignY=70" />
 
@@ -136,11 +136,11 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0010,50:ff2d78,100:0d0010&height=2&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0010,50:ff2d78,100:0d0010&height=2" />
 
 <br/>
 
-<!-- ██████████ STATS ██████████ -->
+<!-- ██████ STATS ██████ -->
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0010,100:2b0030&height=40&text=◈%20%20ESTATÍSTICAS%20%20◈&fontColor=ff2d78&fontSize=18&fontAlignY=70" />
 
@@ -148,29 +148,22 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=brunabcruz&show_icons=true&hide_border=true&bg_color=0d0010&title_color=ff2d78&icon_color=ff2d78&text_color=ffb3d9&ring_color=ff2d78&include_all_commits=true" height="158"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunabcruz&layout=compact&hide_border=true&bg_color=0d0010&title_color=ff2d78&text_color=ffb3d9" height="158"/>
 
 </div>
 
 <div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=brunabcruz&hide_border=true&background=0d0010&ring=ff2d78&fire=ffb3d9&currStreakLabel=ff2d78&sideLabels=d4006e&dates=8b005a&currStreakNum=ffb3d9&sideNums=ffb3d9" />
-
 </div>
 
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=brunabcruz&bg_color=0d0010&color=ffb3d9&line=ff2d78&point=ffb3d9&area_color=3b0035&area=true&hide_border=true&custom_title=Atividade%20no%20GitHub" />
-
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0010,50:ff2d78,100:0d0010&height=2&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0010,50:ff2d78,100:0d0010&height=2" />
 
 <br/>
 
-<!-- ██████████ CONTATO ██████████ -->
+<!-- ██████ CONTATO ██████ -->
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0010,100:2b0030&height=40&text=◈%20%20CONTATO%20%20◈&fontColor=ff2d78&fontSize=18&fontAlignY=70" />
 
