@@ -10,6 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - name: Create dist directory
+        run: mkdir -p dist
       - uses: Platane/snk@master
         with:
           github_user_name: brunabcruz
